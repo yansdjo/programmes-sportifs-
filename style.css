@@ -48,3 +48,11 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
 }
+body {
+  background-image: url('https://raw.githubusercontent.com/yansdjo/programmes-sportifs-/main/background%20(1).jpg'); /* URL de l'image */
+  background-size: cover; /* L'image couvre toute la page */
+  background-position: center center; /* Centre l'image dans la page */
+  background-attachment: fixed; /* L'image reste fixe lorsqu'on fait défiler la page */
+  margin: 0; /* Enlève les marges par défaut */
+  font-family: Arial, sans-serif; /* Exemple de police */
+}
